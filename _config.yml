@@ -4,12 +4,13 @@ email: me+nicky@davidng.hk
 url: https://nicky_and.davidng.hk
 description: "Celebrating Nicky and David's wedding on 13 Jan 2019."
 hero-title: Let's celebrate!
-hero-description: We are getting married on 13 Jan 2019, and we would like you to be a part of it.
+hero-description: Nicky & David are getting married on 13 Jan 2019. <br> We would like you to be a part of it.
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
   links: '#ffb3b3'
+  primary-pink: '#e0b2b2'
 
 # Footer settings
 footer: <i class="fa fa-heart"></i> With love
