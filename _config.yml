@@ -1,8 +1,10 @@
 # Site settings
-title: 👰🤵 Nicky & David - 20190113 Let's celebrate!
-email: me@davidng.hk
+title: 🥂 Nicky & David - 20190113 Let's celebrate!
+email: me+nicky@davidng.hk
 url: https://nicky_and.davidng.hk
 description: "Celebrating Nicky and David's wedding on 13 Jan 2019."
+hero-title: Let's celebrate!
+hero-description: We are getting married on 13 Jan 2019, and we would like you to be a part of it.
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,12 +12,12 @@ color:
   links: '#ffb3b3'
 
 # Footer settings
-footer: <3 With love
+footer: <i class="fa fa-heart"></i> With love
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
+    url: https://facebook.com/david90
 
 # Build settings
 markdown: kramdown
