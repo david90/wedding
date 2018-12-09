@@ -1,0 +1,12 @@
+header.intro .intro-body h1.brand-heading {
+    font-family: 'Sacramento', cursive;
+    color: #b9aeac;
+    margin: 0 0 300px;
+    text-shadow: none;
+    font-weight: 200;
+    text-transform: none;
+}
+
+.navbar-toggle {
+    color: #fff;
+}
