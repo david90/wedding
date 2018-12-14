@@ -1,12 +1,35 @@
 header.intro .intro-body h1.brand-heading {
     font-family: 'Sacramento', cursive;
     color: #b9aeac;
-    margin: 0 0 300px;
-    text-shadow: none;
+    margin: 0 0 400px;
+    /*text-shadow: none;*/
+    text-shadow: 1px 1px 6px #fff;
     font-weight: 200;
     text-transform: none;
 }
 
 .navbar-toggle {
     color: #fff;
+}
+
+
+section h2 {
+    color: #675b5b;
+}
+
+
+section#banquet h2 {
+    color: #ffb3b3;
+}
+
+section#banquet p.note {
+    font-style: italic;
+    font-size: 14px;
+}
+
+footer p {
+    font-family: 'Sacramento', cursive;
+    color: #b9aeac;
+    font-size: 20px;
+
 }

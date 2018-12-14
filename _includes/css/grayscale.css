@@ -149,7 +149,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background: url(/img/intro-bg.jpg) no-repeat bottom center scroll;
-    background-color: {{ site.color.primary-dark }};
+    background-color: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -174,6 +174,7 @@ a:focus {
 @media(min-width:767px) {
     .intro {
         height: 100%;
+        min-height: 1000px;
         padding: 0;
     }
 
@@ -316,7 +317,7 @@ a:focus {
 .btn-default:focus {
     border: 1px solid {{ site.color.links }};
     outline: 0;
-    color: {{ site.color.primary-dark }};
+    color: #fff;
     background-color: {{ site.color.links }};
 }
 
